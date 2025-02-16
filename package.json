@@ -1,6 +1,6 @@
 {
   "name": "tuidd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "T.U.I.D.D. stands for **Text-User-Interface Developer Dashboard** and is useful for checking your CPU usage, memory usage, git branches, system events/logs, and running processes (includes PID, CPU %, and Memory usage)",
   "main": "./bin/index.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "myfer <contactme.myfer@protonmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "blessed": "^0.1.81",
